@@ -1,0 +1,11 @@
+aioredis
+fastapi
+fakeredis
+uvicorn
+
+# Test
+
+fakeredis 
+httpx 
+pytest
+pytest-asyncio 
