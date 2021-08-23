@@ -1,5 +1,9 @@
 Simple [FastAPI][fastapi] using [aioredis][aioredis] for actual app and [fakeredis][fakeredis] for testing so we are sure our actual data is disturbed by our test code.
 
+## Post
+
+ - En: [FastAPI and aioredis Demo](https://jockerz.github.io/blog/fastapi-and-async-depedencies/)
+ - Id: [Demo FastAPI dengan aioredis](https://jockerz.github.io/blog/fastapi-and-async-depedencies-id/)
 
 ## Depedencies
 
